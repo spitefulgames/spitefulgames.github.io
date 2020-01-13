@@ -1,0 +1,2 @@
+# spitefulgames.github.io
+website
